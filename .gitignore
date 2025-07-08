@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# Build and Output
+build/
+dist/
+*.egg-info/
+output/
+figures/
+paper.pdf
+
+# Data (to avoid committing large datasets)
+data/
+
+# Logs
+*.log
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Local Config
+config.ini
+.local
+.env
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+
+# Ignore large generated files
+*.csv
+*.json
+*.pickle

@@ -32,7 +32,6 @@ Statistical-Analysis-IPL-Performance/
 ├── notebooks/              # Jupyter notebooks (EDA, analysis, visualization)
 │   ├── eda.ipynb           # Exploratory data analysis
 │   ├── main_analysis.ipynb # Metric computations and visualizations
-├── src/                    # Python scripts for metrics and utilities
 ├── figures/                # Output plots (stochastic dominance, performance charts)
 ├── paper.pdf               # Published research paper
 ├── requirements.txt        # Python dependencies
